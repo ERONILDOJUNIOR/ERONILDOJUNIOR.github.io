@@ -14,7 +14,7 @@ body {
 }
 
 a {
-  color: #14dd1e;
+  color: #121410;
   text-decoration: none;
 }
 
@@ -551,7 +551,7 @@ section {
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  color: #149ddd;
+  color: #5edd14;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -594,7 +594,7 @@ section {
   color: #fff;
   font-size: 28px;
   text-align: center;
-  background: rgba(20, 157, 221, 0.75);
+  background: #198754;
   transition: 0.3s;
   width: 50%;
 }
